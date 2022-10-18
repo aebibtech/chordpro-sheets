@@ -1,0 +1,48 @@
+{
+    "pdf": {
+        "fonts" : {
+          "title" : {
+            "name" : "Times-Bold",
+            "size" : 16
+          },
+          "text" : {
+            "name" : "Times-Roman",
+            "size" : 14
+          },
+          "chord" : {
+            "name" : "Helvetica-Oblique",
+            "size" : 12
+          },
+          "chordfingers" : {
+            "file" : "ChordProSymbols.ttf",
+            "numbercolor" : "background",
+          },
+          "comment" : {
+            "name" : "Helvetica",
+            "size" : 14,
+            "background" : "foreground-light"
+          },
+          "comment_italic" : {
+            "name" : "Helvetica-Oblique",
+            "size" : 14,
+          },
+          "comment_box" : {
+            "name" : "Helvetica",
+            "size" : 14,
+            "frame" : 1
+          },
+          "tab" : {
+            "name" : "Courier",
+            "size" : 10
+          },
+          "toc" : {
+            "name" : "Times-Roman",
+            "size" : 11
+          },
+          "grid" : {
+            "name" : "Helvetica",
+            "size" : 10
+          },
+      }
+    }
+}
