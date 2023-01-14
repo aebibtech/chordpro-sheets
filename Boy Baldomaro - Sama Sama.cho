@@ -1,11 +1,9 @@
 {title: Sama-Sama}
 {ng}
 {columns: 2}
-{ci:Intro 1 (6x)}
-[E] [D]
-
-{ci:Intro 2}
-[E] [D] [F#m]
+{ci:Intro 1}
+[E] [D] [E] [E] [D] [E]
+[E] [D] [F#m] [G#m] [A] [F#/Bb] [B]
 
 {ci:Chorus}
 Sama-[E]samang[G#m] nag[A]pupuri sa’[B]Yo
@@ -13,36 +11,43 @@ Sama-[E]samang[G#m] u[A]maawit sa’[B]Yo
 Da[C#m]kilang [G#m]Diyos, tunay [A]na kay buti [B]Mo
 Pag-[C#m]ibig [G#m]Mo ay hin[A]di nagbaba[B]go
 I[C#m]tataas ang [G#/C]ngalan Mo Pa[B]nginoong He[F#/Bb]su Kristo
-Ka[A]mi ay sama-samang [F#m][G][G#m][A][Bb][B]
+Ka[A]mi ay sama-samang [F#m][G#m][A][F#/Bb][B]
 sumasamba sa’[E]Yo
-(Repeat)
 
+{ci:Instrumental 1}
+[E] [D] [E] [E] [D] [E]
+
+{ci:Bridge 1}
 [D]Ha-Halle[E]lujah
 [D]Ha-Ha-Ha-Halle[E]lujah
 [D]Ha-Halle[E]lujah
-[D]Ha-Ha-Ha-Halle[B]lujah [F#m][G][G#m][A][Bb][B]
+[D]Ha-Ha-Ha-Halle[B]lujah [F#m][G#m][A][F#/Bb][B]
 
+{ci:Instrumental 2}
+[E] [D] [E] [E] [D] [E]
+
+{ci:Bridge 2 (Ulitin ang bawat grupo ng dalawang beses)}
 [D]Ha-Halle[E]lujah
 [D]Ha-Ha-Ha-Halle[E]lujah
-[D]Ha-Halle[E]lujah
-[D]Ha-Ha-Ha-Halle[B]lujah
+.
+.
+
 [D]Pa-Papupu[E]rihan Ka
 [D]Pa-Pa-Pa-Papupu[E]rihan Ka
-[D]Pa-Papupu[E]rihan Ka
-[D]Pa-Pa-Pa-Papupu[E]rihan Ka
+
 [D]A-Aa[E]witan Ka
 [D]A-A-A-Aa[E]witan Ka
-[D]A-Aa[E]witan Ka
-[D]A-A-A-Aa[E]witan Ka
+
 [D]Sa-Sasa[E]yaw sa’Yo
 [D]Sa-Sa-Sa-Sasa[E]yaw sa’Yo
-[D]Sa-Sasa[E]yaw sa’Yo
-[D]Sa-Sa-Sa-Sasa[E]yaw sa’Yo
+
+{ci:Bridge 3}
 [D]Ha-Halle[E]lujah
 [D]Ha-Ha-Ha-Halle[E]lujah
 [D]Ha-Halle[E]lujah
-[D]Ha-Ha-Ha-Halle[B]lujah [F#m][G][G#m][A][Bb][B]
+[D]Ha-Ha-Ha-Halle[B]lujah [F#m][G#m][A][F#/Bb][B]
 
+{ci:Ending}
 Su[D]masamba sa’[E]Yo
 Su[D]masamba sa’[E]Yo
 Su[D]masamba sa’[E]Yo
